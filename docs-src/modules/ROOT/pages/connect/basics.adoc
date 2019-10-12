@@ -28,7 +28,7 @@ Some simple examples of what we're doing are:
                    {:charge/amount 22}]}
 ```
 
-To make sure we're on the same page, here's a quick review of vocabulary:
+To make sure we're on the same page, here's a quick review of the vocabulary:
 
 [Horizontal]
 Environment:: A map of configuration and context that is used to configure the parser and is also passed to the reader.
